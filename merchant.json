@@ -1,0 +1,21 @@
+{
+    "groups": [
+        { "id": 1, "name": "Coffee", "url": "/assets/images/coffee.png" },
+        { "id": 2, "name": "Hot Beverages", "url": "/assets/images/hot-beverages.png" },
+        { "id": 3, "name": "Cold Beverages", "url": "/assets/images/cold-beverages.png" },
+        { "id": 4, "name": "Donuts", "url": "/assets/images/donuts.png" },
+        { "id": 5, "name": "Baked Goods", "url": "/assets/images/baked-goods.png" },
+        { "id": 6, "name": "Bagels", "url": "/assets/images/bagels.png" }
+    ],
+    "products": [
+        { "id": 1, "groupId": 1, "name": "Small Coffee", "description": "", "url": "assets/images/coffee.png", "price": 154 },
+        { "id": 2, "groupId": 1, "name": "Medium Coffee"," description": "", "url": "assets/images/coffee.png", "price": 176 },
+        { "id": 3, "groupId": 1, "name": "Large Coffee", "description": "", "url": "assets/images/coffee.png", "price": 192 },
+        { "id": 4, "groupId": 6, "name": "Plain Bagel", "description": "", "url": "assets/images/plain-bagel.png", "price": 149 },
+        { "id": 5, "groupId": 6, "name": "12 Grain Bagel", "description": "", "url": "assets/images/12-grain-bagel.png", "price": 149 },
+        { "id": 6, "groupId": 6, "name": "4 Cheese Bagel", "description": "", "url": "assets/images/4-cheese-bagel.png", "price": 229 },
+        { "id": 7, "groupId": 6, "name": "Seasame Seed Bagel", "description": "", "url": "assets/images/seasame-bagel.png", "price": 149 },
+        { "id": 8, "groupId": 6, "name": "Cinnamon Bagel", "description": "", "url": "assets/images/maple-cinnamon-bagel.png", "price": 149 },
+        { "id": 9, "groupId": 6, "name": "Raisin Bagel", "description": "", "url": "assets/images/raisin-bagel.png", "price": 229 }
+    ]
+}
