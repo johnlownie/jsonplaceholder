@@ -1,7 +1,8 @@
 {
   "images": [
     {
-      "name": "cafelines.png",
+      "name": "cafelines",
+      "type": "png",
       "caption": "Action Analysis Cafe",
       "folder": "layouts",
       "show": true,
