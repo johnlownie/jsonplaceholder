@@ -1,5 +1,5 @@
 {
     "fears": [
-        { "id": 1, "representative": "Kate Young", "answer": "There will be no more fresh water!", "long": -81.247254, "lat": 42.966665 }
+        { "id": 1, "representative": "Kate Young", "answer": "There will be no more fresh water!", "long": 42.966665, "lat": -81.247254 }
     ]
 }
