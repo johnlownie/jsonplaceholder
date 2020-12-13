@@ -1,14 +1,14 @@
 {
     "fears": [
-        { "id": 1, "representative": "Kate Young", "answer": "There will be no more fresh water!", "long": 42.966665, "lat": -81.247254 }
-        { "id": 2, "representative": "John Fraser", "answer": "I fear that it is going at a rapid pace and that the government and businesses/company’s aren’t taking it seriously enough.", "long": 45.374638, "lat": -75.666253 }
-        { "id": 3, "representative": "Rudy Cuzzetto", "answer": "I fear that our world will change negatively because of climate change before the end of my lifetime", "long": 43.549778, "lat": -79.587911 }
-        { "id": 4, "representative": "Aris Babikian", "answer": "That it’ll destroy us", "long": 43.783631, "lat": -79.287313 }
-        { "id": 5, "representative": "Christine Elliott", "answer": "Climate Change will limit the opportunities of future generations", "long": 44.034845, "lat": -79.475668 }
-        { "id": 6, "representative": "Roman Baber", "answer": "Increases in natural disasters and struggles with growing/producing food", "long": 43.663637, "lat": -79.390645 }
-        { "id": 7, "representative": "Stan Cho", "answer": "Animal habitats not being livable ", "long": 43.759995, "lat": -79.416981 }
-        { "id": 8, "representative": "Vincent Ke", "answer": "That it will have an unrepairable effect on our planet.", "long": 43.77165, "lat": -79.351643 }
-        { "id": 9, "representative": "Stan Cho", "answer": "That we can't reverse the impact it already has on our earth. Meaning, if we don't act faster, our chances of saving this planet, it's resources, and the life resides on it, will go from slim to none.", "long": 43.759991, "lat": -79.416984 }
+        { "id": 1, "representative": "Kate Young", "answer": "There will be no more fresh water!", "long": 42.966665, "lat": -81.247254 },
+        { "id": 2, "representative": "John Fraser", "answer": "I fear that it is going at a rapid pace and that the government and businesses/company’s aren’t taking it seriously enough.", "long": 45.374638, "lat": -75.666253 },
+        { "id": 3, "representative": "Rudy Cuzzetto", "answer": "I fear that our world will change negatively because of climate change before the end of my lifetime", "long": 43.549778, "lat": -79.587911 },
+        { "id": 4, "representative": "Aris Babikian", "answer": "That it’ll destroy us", "long": 43.783631, "lat": -79.287313 },
+        { "id": 5, "representative": "Christine Elliott", "answer": "Climate Change will limit the opportunities of future generations", "long": 44.034845, "lat": -79.475668 },
+        { "id": 6, "representative": "Roman Baber", "answer": "Increases in natural disasters and struggles with growing/producing food", "long": 43.663637, "lat": -79.390645 },
+        { "id": 7, "representative": "Stan Cho", "answer": "Animal habitats not being livable ", "long": 43.759995, "lat": -79.416981 },
+        { "id": 8, "representative": "Vincent Ke", "answer": "That it will have an unrepairable effect on our planet.", "long": 43.77165, "lat": -79.351643 },
+        { "id": 9, "representative": "Stan Cho", "answer": "That we can't reverse the impact it already has on our earth. Meaning, if we don't act faster, our chances of saving this planet, it's resources, and the life resides on it, will go from slim to none.", "long": 43.759991, "lat": -79.416984 },
         { "id": 10, "representative": "Bhutila Karpoche", "answer": "That we are going to just take and take from the Earth until there is nothing left.", "long": 43.664867, "lat": -79.464778 }
    ]
 }
